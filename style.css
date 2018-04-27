@@ -2,19 +2,23 @@ h1{
 
   font-family: verdana;
   color:blue;
+  Hello
 }
 
  h2{
   font-family: verdana;
   color:blue;
+   Hello
 }
 
 p{
  font-family: verdana;
+  Hello
 }
 
 body {
     background-color: #009999;
+  Hello
 }
 
 <h1><link rel="stylessheet" href="/style.css" /></h1>
